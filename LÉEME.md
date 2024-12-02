@@ -1,16 +1,16 @@
-# filmasterV2
-Upgraded version of Filmaster, a Responsive Modern UI/UX Movie Catalog Application using React, TypeScript, Tailwind, Firebase Hosting and Firestore Database.
+# Proyecto: Filmaster 
+Filmmaster, una aplicación de catálogo de películas UI/UX moderna y receptiva que utiliza React, TypeScript, Tailwind, Firebase Hosting y Firestore Database.
 
-### Features:
-* Browse a vast collection of movies with rich details and images.
-* Search for movies by title, genre, or cast members.
-* View movie details including synopsis, release date, duration, and rating.
-* Mark movies as favorites for easy access.
-* Create personalized watchlists and add movies to them.
-* Rate and review movies.
-* Responsive design for seamless usage across devices.
-
-### Technologies used:
+### Características:
+* Explore una amplia colección de películas con ricos detalles e imágenes.
+* Busque películas por título, género o miembros del reparto.
+* Ver detalles de la película, incluida la sinopsis, la fecha de lanzamiento, la duración y la calificación.
+* Marque películas como favoritas para acceder fácilmente.
+* Cree listas de seguimiento personalizadas y agrégueles películas.
+* Calificar y reseñar películas.
+* Diseño responsivo para un uso fluido en todos los dispositivos.
+  
+### Tecnologías utilizadas:
 
 #### Frontend:
 * React (TypeScript)
