@@ -1,7 +1,5 @@
 # filmasterV2
-Upgraded version of Filmaster, a Responsive Modern UI/UX Movie Catalog Application using React, TypeScript, Tailwind, Firebase Hosting and Firestore Database. [Try it out!](https://filmasterv2.web.app)
-
-![Filmaster](https://github.com/diegov05/portfolio-v1/blob/main/src/assets/filmaster.png)
+Upgraded version of Filmaster, a Responsive Modern UI/UX Movie Catalog Application using React, TypeScript, Tailwind, Firebase Hosting and Firestore Database.
 
 ### Features:
 * Browse a vast collection of movies with rich details and images.
